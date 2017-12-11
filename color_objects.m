@@ -1,7 +1,7 @@
 function [ rgbim ] = color_objects( imb )
 %%%%  Mukhil Azhagan Mallaiyan Sathiaseelan 
 %%%%  Color Objects Code works for any number of objects
-%%%%  With 4 neighbor connection ,as mentioned in book
+%%%%  With 4 neighbor connection 
 
 %%% Created global variables for use in Stack function
 global cel;
